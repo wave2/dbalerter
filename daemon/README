@@ -1,0 +1,34 @@
+About dbAlerter
+================
+Database Alerter = Something wrong with your DB?  Well now you know what!
+
+After suffering at the hands of external monitoring tools, I decided to
+write something that would run standalone and provide detailed notification
+for database issues that often elude a busy DBA.
+
+Initially focussing on MySQL, I recently rewrote the daemon with a view to
+supporting more database platforms in the near future.
+
+
+Requirements
+------------
+  * Python 2.6+ (http://www.python.org)
+  * xmpppy 0.5.0+ (http://xmpppy.sourceforge.net)
+
+  MySQL
+  -----
+  * MySQL-python 1.2.3+ (http://mysql-python.sourceforge.net)
+
+
+Installation
+------------
+Installation *should* be as simple as:
+ 
+  $ python setup.py install
+
+ 
+Further Information
+-------------------
+Check out the website for more detailed documentation:
+
+  http://www.dbAlerter.org
