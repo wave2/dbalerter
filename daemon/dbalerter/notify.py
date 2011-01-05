@@ -2,7 +2,7 @@
 """
     dbAlerter notification module
 
-    @copyright: 2008-2010 Wave2 Limited. All rights reserved.
+    @copyright: 2008-2011 Wave2 Limited. All rights reserved.
     @license: BSD License
 """
 
@@ -15,7 +15,7 @@ from email.Utils import parseaddr
 from pkg_resources import resource_stream
 
 __author__ = "Alan Snelson"
-__copyright__ = "Copyright (c) 2008-2010 Wave2 Limited"
+__copyright__ = "Copyright (c) 2008-2011 Wave2 Limited"
 
 __revision__ = "$Id$"
 __version__ = "0.1.0"
