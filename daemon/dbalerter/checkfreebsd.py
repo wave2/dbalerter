@@ -2,14 +2,14 @@
 """
     dbAlerter FreeBSD module
  
-    @copyright: 2010 Wave2 Limited. All rights reserved.
+    @copyright: 2010-2011 Wave2 Limited. All rights reserved.
     @license: BSD License
 """
  
 import ctypes, os, subprocess
  
 __author__ = "Alan Snelson"
-__copyright__ = "Copyright (c) 2010 Wave2 Limited"
+__copyright__ = "Copyright (c) 2010-2011 Wave2 Limited"
  
 __revision__ = "$Id$"
 __version__ = "0.1.0"
